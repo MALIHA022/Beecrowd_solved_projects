@@ -1,4 +1,4 @@
-#Easy Task 2
+#1259
 num_of_inp = int(input("Enter number of inputs: "))
 even = []
 odd = []
