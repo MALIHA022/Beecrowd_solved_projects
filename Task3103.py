@@ -1,4 +1,4 @@
-# Medium Task 1
+# 3103
 T = int(input())
 result = []
 
