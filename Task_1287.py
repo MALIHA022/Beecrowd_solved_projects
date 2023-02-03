@@ -1,4 +1,4 @@
-# Medium Task 2
+#1287
 while True:
     try:
         n = input()
