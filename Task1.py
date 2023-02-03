@@ -1,4 +1,4 @@
-# Easy Task1
+# 1244
 n = int(input())
 
 for i in range(n):
